@@ -25,10 +25,10 @@ mvn javafx:run
 ## Evidencias
 
 ### Aplicación con notas
-![Notas agregadas](evidencias/notas.png)
+![Notas agregadas](evidencias/notas.png.png)
 
 ### Edición con doble clic
-![Editar nota](evidencias/editar.png)
+![Editar nota](evidencias/editar.png.png)
 
 ### Eliminación y contador
-![Eliminar nota](evidencias/eliminar.png)
+![Eliminar nota](evidencias/eliminar.png.png)
