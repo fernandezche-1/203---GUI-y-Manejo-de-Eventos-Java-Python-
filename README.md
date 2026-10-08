@@ -1,4 +1,4 @@
-# 203---GUI-y-Manejo-de-Eventos-Java-Python-
+# 203 - GUI y Manejo de Eventos (Java Python)
 # Notas Rápidas - JavaFX
 
 ## Descripción
